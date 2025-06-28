@@ -2,7 +2,7 @@
   "name": "jarvis",
   "short_name": "jarvis",
   "description": "jarvis jarvis jarvis jarvis",
-  "start_url": "https://thom283.github.io/Jarvis/Jarvis%202.01.50",
+  "start_url": "/",
   "display": "standalone", 
   "background_color": "#3f3f3f",
   "theme_color": "#3f3f3f", 
