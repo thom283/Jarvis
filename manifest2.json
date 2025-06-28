@@ -1,0 +1,20 @@
+{
+  "name": "jarvis",
+  "short_name": "jarvis",
+  "description": "jarvis jarvis jarvis jarvis",
+  "start_url": "https://thom283.github.io/Jarvis/Jarvis%202.01.50",
+  "display": "standalone", 
+  "background_color": "#3f3f3f",
+  "theme_color": "#3f3f3f", 
+  "icons": [
+    {
+      "src": "https://thom283.github.io/Jarvis/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://thom283.github.io/Jarvis/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
